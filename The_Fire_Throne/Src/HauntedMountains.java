@@ -11,8 +11,8 @@ public class HauntedMountains extends Level {
 	private int choice;
 	private int item_choice;
 	private String h_stone = "Health";
-    private String c_stone = "Crazy";
-    private Scanner scan = new Scanner (System.in);
+    	private String c_stone = "Crazy";
+    	private Scanner scan = new Scanner (System.in);
 	
 
 	
